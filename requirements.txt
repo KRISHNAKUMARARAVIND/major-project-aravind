@@ -1,10 +1,4 @@
 streamlit
 pandas
-sklearn
-ngrok
-vadersentiment
-contractions
 bs4
-requests
-numpy
-nltk
+ngrok
