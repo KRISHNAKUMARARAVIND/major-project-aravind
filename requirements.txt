@@ -1,3 +1,6 @@
 streamlit
 pandas
 sklearn
+ngrok
+vadersentiment
+contractions
