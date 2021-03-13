@@ -8,4 +8,3 @@ bs4
 requests
 numpy
 nltk
-re
