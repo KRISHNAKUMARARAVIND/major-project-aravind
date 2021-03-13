@@ -4,7 +4,7 @@ sklearn
 ngrok
 vadersentiment
 contractions
-BeautifulSoup
+bs4
 requests
 numpy
 nltk
