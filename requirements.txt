@@ -4,3 +4,9 @@ sklearn
 ngrok
 vadersentiment
 contractions
+BeautifulSoup
+requests
+numpy
+nltk
+re
+Toktoktokenizer
