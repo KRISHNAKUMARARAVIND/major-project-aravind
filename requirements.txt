@@ -1,4 +1,5 @@
 streamlit
 bs4
-ngrok
 nltk
+pandas
+sklearn
