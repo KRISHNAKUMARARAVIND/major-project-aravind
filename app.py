@@ -1,7 +1,7 @@
 import streamlit as st
 st.title('MAJOR PROJECT')
 import pandas as pd
-df = pd.read_csv('https://raw.githubusercontent.com/Harshasai454/datasets/main/Test.csv')
+df = pd.read_csv('Test.csv')
 import requests
 from bs4 import BeautifulSoup 
 import pandas as pd
