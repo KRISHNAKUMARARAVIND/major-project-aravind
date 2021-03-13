@@ -1,5 +1,7 @@
 streamlit
-bs4
-nltk
 pandas
 sklearn
+bs4
+nltk
+contractions
+vaderSentiment
